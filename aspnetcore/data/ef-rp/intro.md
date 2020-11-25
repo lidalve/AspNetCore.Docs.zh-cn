@@ -125,7 +125,7 @@ To run the app after downloading the completed project:
 1. 选择“创建”。
 1. 在“创建新的 ASP.NET Core Web 应用程序”对话框中，选择：
     1. 下拉列表中的“.NET Core”和“ASP.NET Core 5.0”。
-    1. ASP.NET Core Web 应用程序（模型-视图-控制器）。
+    1. ASP.NET Core Web 应用程序。
     1. “创建”
       ![新的 ASP.NET Core 项目对话框](~/data/ef-mvc/intro/_static/new-aspnet5.png)
     
